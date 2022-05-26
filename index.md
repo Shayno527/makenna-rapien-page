@@ -1,3 +1,0 @@
-{% include image.html url="images/ShayneHeadshot.jpg" caption="" width="300" align="right" %}
-
-I am the ...
