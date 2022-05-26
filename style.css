@@ -1,10 +1,9 @@
 body{
     margin: 100px;
     background: gray;
-    text-align: right;
+    text-align: center;
 }
 
-img{
-    float: left;
-    margin:100px;
+li{
+    float: right;
 }
