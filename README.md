@@ -1,6 +1,6 @@
 ## Makenna Rapien
 
-You can use the [editor on GitHub](https://github.com/Shayno527/makenna-rapien-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi My name is Makenna and this is my professional career page to display to the world!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
