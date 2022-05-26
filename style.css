@@ -5,6 +5,5 @@ body{
 }
 
 img{
-    float: right;
-    margin: 100px;
+    float: left;
 }
