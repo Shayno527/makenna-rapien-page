@@ -8,4 +8,5 @@ body{
 img{
     float: left;
     margin: 500px;
+    border: crimson;
 }
