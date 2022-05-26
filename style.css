@@ -1,9 +1,10 @@
 body{
-    margin: 0;
+    margin: 100px;
     background: gray;
     text-align: right;
 }
 
 img{
     float: left;
+    margin:100px;
 }
