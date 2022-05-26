@@ -2,12 +2,10 @@ body{
     margin: 100px;
     background: gray;
     text-align: center;
-    border: 20px;
-    border-color: chartreuse;
+    border: chartreuse
 }
 
 img{
     float: right;
-    border: 10px;
-    border-color: red;
+    border:red;
 }
