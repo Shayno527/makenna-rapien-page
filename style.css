@@ -4,7 +4,7 @@ body{
     text-align: center;
     border: 20px chartreuse;
     position: relative;
-    left: 100px;
+    right: 100px;
 }
 
 img{
